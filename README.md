@@ -1,4 +1,7 @@
 # Ares-Extras
+
+# still working on this, so somethings might still not work due to me forgetting something. will be fixing it
+
 This is a collection of unofficial installation scripts for Ares allowing you to quickly and easily install emulators, ports and libretrocores 
 These scripts can be considered experimental at best.
 
