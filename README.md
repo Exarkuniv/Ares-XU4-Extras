@@ -32,10 +32,12 @@ i will see if i can somehow use the same thing as my retropie-extras format
 The following commands clone the repo to your Raspberry Pi and then run install-scripts.sh to install the scripts in the master branch directly to the proper directories in the RetroPie-Setup/ folder.
 
 ```
-cd ~
+
+cd
 git clone https://github.com/Exarkuniv/Ares-XU4-Extras
 cd Ares-XU4-Extras/
 ./install-extras.sh
+
 ```
 
 The installation script assumes that you are running it on a Raspberry Pi with the RetroPie-Setup/ folder being stored in /home/pi/RetroPie-Setup. If your setup differs, just copy the scripts directly to the folder they need to be in.
