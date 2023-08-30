@@ -1,4 +1,4 @@
-# Ares-Extras
+# Ares-XU4-Extras
 
 # still working on this, so somethings might still not work due to me forgetting something. will be fixing it
 
