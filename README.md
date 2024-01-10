@@ -11,7 +11,7 @@ right now i have a bunch of them that install but will not run due to the lack o
 
 First you need to add 2 lines into the sources.list
 ```
-sudo nano/etc/apt/sources.list
+sudo nano /etc/apt/sources.list
 ```
 
 then add these anywhere in the list 
