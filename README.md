@@ -36,6 +36,7 @@ The following commands clone the repo to your Raspberry Pi and then run install-
 cd
 git clone https://github.com/Exarkuniv/Ares-XU4-Extras
 cd Ares-XU4-Extras/
+sudo chmod 755 ~/Ares-XU4-Extras/install-extras.sh
 ./install-extras.sh
 
 ```
